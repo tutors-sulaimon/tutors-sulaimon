@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sulaimon Ekundayo</h1>
-<h3 align="center">A passionate software tester from Finland</h3>
+<h3 align="center">A passionate Full-stack Dveloper and Software QA Engineer from Finland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekundayoso&label=Profile%20views&color=0e75b6&style=flat" alt="ekundayoso" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, PHP, UI/UX, React, Drupal**
+- 🌱 I’m currently learning **JavaScript, PHP, Drupal, React, Node, Express, MangoDB**
 
-- 👨‍💻 All of my projects are available at [github.com/ekundayoSO](github.com/ekundayoSO)
-
-- 📫 How to reach me **sulaimon.ekundayo1@gmail.com**
+- 👨‍💻 All of my projects are available at [[github.com/tutors-sulaimon](github.com/tutors-sulaimon)]
+- 📫 How to reach me **sulaimon.ekundayo@tutors.es**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
